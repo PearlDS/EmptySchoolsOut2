@@ -10,8 +10,7 @@ import be.intecbrussel.schoolsout.services.UserService;
 
 import java.util.Locale;
 import java.util.Scanner;
-//TODO: belijk hoe je usages verwijdert
-//TODO: Aviva Grade probleem
+
 public class MainClass {
     private static int choiceOne= 9;
     private static int choiceTwo= 9;
